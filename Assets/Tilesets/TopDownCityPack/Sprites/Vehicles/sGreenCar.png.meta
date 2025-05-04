@@ -1,0 +1,1786 @@
+fileFormatVersion: 2
+guid: b448aa3552ad53a42a65bdf43882937e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8965631631005630893
+    second: sGreenCar_0
+  - first:
+      213: 4908031321475317942
+    second: sGreenCar_1
+  - first:
+      213: 1693118082343313376
+    second: sGreenCar_2
+  - first:
+      213: 5355447832929935306
+    second: sGreenCar_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sGreenCar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.5, y: 16}
+        - {x: 23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: -16}
+        - {x: -23.5, y: -16}
+        - {x: 23.5, y: -16}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e37e6988da39380800000000000000
+      internalID: -8965631631005630893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 13.5, y: -23}
+        - {x: 13.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -13.5, y: -23}
+        - {x: 13.5, y: -23}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b00707ab74dc1440800000000000000
+      internalID: 4908031321475317942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.5, y: 16}
+        - {x: 23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: -16}
+        - {x: 23.5, y: -16}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef1dd4ece92f7710800000000000000
+      internalID: 1693118082343313376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 13.5, y: 23}
+        - {x: 13.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -13.5, y: -23}
+        - {x: 13.5, y: -23}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf9ceefd6f525a40800000000000000
+      internalID: 5355447832929935306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e27ce56276a5ff4ba9693d803fb9b1e
+      internalID: -1454003808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7383fcb322fa6824eb10e91216675f0b
+      internalID: -1487779698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f80e653ff205e649bda1dbd7eab4248
+      internalID: 1915488073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134a1505860b1a4e9d19f7af5b97984
+      internalID: 1662386075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3e530b2f6d7ee41b9c3c7b82edb91b
+      internalID: 2111839441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65ef69a003b27348879233bbf377651
+      internalID: -798731998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70812daf281184645a1daeee2428bf65
+      internalID: 577096290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb090db8d4a7b44b816276f2780fe9
+      internalID: 70580875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d6c975689c9964e930797dc85773ff
+      internalID: 565547289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d38ab4e40ac0e4ba8cf8d8777a4695
+      internalID: 1360806732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf2df0bb5730d4a911d0ba2583b8fb
+      internalID: 1551893923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a62242c363a4b4ea46204227a05995
+      internalID: -449236587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa294a948a0e2c940940af6e76f71524
+      internalID: -1723360115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c040a2772a26a41b3b55d2d80242ed
+      internalID: -28538724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e45d6131aa21e944844d74db79294d3
+      internalID: -1899973117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fea669c5a80a144ae8eb66e5f5c58e
+      internalID: 1063829290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da2e75f0f895d2448d619d16dce22b8
+      internalID: 1408159862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b6e2498f29a9740bf10c0a13e847e1
+      internalID: 1157998777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad77f6a8ee0f074da9fb69c9c8508d7
+      internalID: 1386215541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e29a901a68fa478c837814032839a
+      internalID: 1412465886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60288bb6f7ed76a44b6f66a41d6b7a96
+      internalID: 1185132004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a58903423d674f939e27fcbb5bde2
+      internalID: 344192432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ada56b11b9265448e8ce9fa02ed607
+      internalID: 2017894694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3941a15a19310754ca505281b1acb1c1
+      internalID: -53514623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4171084e12c5ec245a3da40f7e616500
+      internalID: 2135979283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394a1c431e3299408891e65d7c36288
+      internalID: 1454820518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed4f988574fba045af88ca0262ef5fc
+      internalID: -115257457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f05e672cc17d15459f65855afb9dd57
+      internalID: -1729420695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1b7c75cc190b847a0d063ba21769f9
+      internalID: 582346250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bce0c7942c2be8498b13571df94906c
+      internalID: 535996770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756a79a201e9ce4db02368c0c44ba30
+      internalID: -596563825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca123d6af3108b44a8458bcc1829fb03
+      internalID: 1221679048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87989a0ff4c8ffb4d846339c72d5bbec
+      internalID: -220041719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690bd73c7c6d83447ad03dc54c51e21b
+      internalID: -1228836354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d621a8bdf798f44c9f974e98321fd95
+      internalID: -1626835927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b3574e1c708f4e8ae6cf412152d34
+      internalID: 622284770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c72530e0c6f144a62d63a62fb187f
+      internalID: -1357872048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b523e2bcb67e484cb1120740f85b056
+      internalID: 2071097080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa0cdbf9fcda494a9d13bcffafda915
+      internalID: -569466589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4fd72dc893e994e8328a6a66c39e43
+      internalID: 718272600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86b4a017c3101340b02be6a8446b1e1
+      internalID: -1286347851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f975cfbbf0a835449876e4f23e7b0339
+      internalID: -894877630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097ad206cb3bc2b4585b17b8b08b272f
+      internalID: 1048739502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7427c5966a1473c4cb98982ee258df49
+      internalID: -110206001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5c90c75c9e31459e9978997b5979c
+      internalID: -215779570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4a68979af55f14f9836061b512e0d1
+      internalID: 1993755920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbe6a0dbdb8b79448a510a9dc04a2d9
+      internalID: -2144856818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14355c4cb6741054e92d96be09e5c788
+      internalID: -949667424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e889e0bd74f93fe45be028bfcd30dd8b
+      internalID: -661601996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sGreenCar_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed6509de8769e47a1f4a101fdf74a4
+      internalID: 706550717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5aeb0729adecc241b5e88477ad2905b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sGreenCar_0: -8965631631005630893
+      sGreenCar_1: 4908031321475317942
+      sGreenCar_10: 577096290
+      sGreenCar_11: 70580875
+      sGreenCar_12: 565547289
+      sGreenCar_13: 1360806732
+      sGreenCar_14: 1551893923
+      sGreenCar_15: -449236587
+      sGreenCar_16: -1723360115
+      sGreenCar_17: -28538724
+      sGreenCar_18: -1899973117
+      sGreenCar_19: 1063829290
+      sGreenCar_2: 1693118082343313376
+      sGreenCar_20: 1408159862
+      sGreenCar_21: 1157998777
+      sGreenCar_22: 1386215541
+      sGreenCar_23: 1412465886
+      sGreenCar_24: 1185132004
+      sGreenCar_25: 344192432
+      sGreenCar_26: 2017894694
+      sGreenCar_27: -53514623
+      sGreenCar_28: 2135979283
+      sGreenCar_29: 1454820518
+      sGreenCar_3: 5355447832929935306
+      sGreenCar_30: -115257457
+      sGreenCar_31: -1729420695
+      sGreenCar_32: 582346250
+      sGreenCar_33: 535996770
+      sGreenCar_34: -596563825
+      sGreenCar_35: 1221679048
+      sGreenCar_36: -220041719
+      sGreenCar_37: -1228836354
+      sGreenCar_38: -1626835927
+      sGreenCar_39: 622284770
+      sGreenCar_4: -1454003808
+      sGreenCar_40: -1357872048
+      sGreenCar_41: 2071097080
+      sGreenCar_42: -569466589
+      sGreenCar_43: 718272600
+      sGreenCar_44: -1286347851
+      sGreenCar_45: -894877630
+      sGreenCar_46: 1048739502
+      sGreenCar_47: -110206001
+      sGreenCar_48: -215779570
+      sGreenCar_49: 1993755920
+      sGreenCar_5: -1487779698
+      sGreenCar_50: -2144856818
+      sGreenCar_51: -949667424
+      sGreenCar_52: -661601996
+      sGreenCar_53: 706550717
+      sGreenCar_6: 1915488073
+      sGreenCar_7: 1662386075
+      sGreenCar_8: 2111839441
+      sGreenCar_9: -798731998
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

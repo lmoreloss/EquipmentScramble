@@ -1,0 +1,1786 @@
+fileFormatVersion: 2
+guid: 7c63d9ecda9273e49b49f814ada3fc54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1835197692558512801
+    second: sRedCar_0
+  - first:
+      213: 6598628455565924248
+    second: sRedCar_1
+  - first:
+      213: 2828828263926899059
+    second: sRedCar_2
+  - first:
+      213: -82359433599558091
+    second: sRedCar_3
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 12
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sRedCar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.5, y: 16}
+        - {x: 23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: -16}
+        - {x: -23.5, y: -16}
+        - {x: 23.5, y: -16}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2119df39ee77910800000000000000
+      internalID: 1835197692558512801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 13.5, y: -23}
+        - {x: 13.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -13.5, y: -23}
+        - {x: 13.5, y: -23}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979aca8e99039b50800000000000000
+      internalID: 6598628455565924248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 180
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 23.5, y: 16}
+        - {x: 23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: -16}
+        - {x: 23.5, y: -16}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a2f97154024720800000000000000
+      internalID: 2828828263926899059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 13.5, y: 23}
+        - {x: 13.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -13.5, y: 23}
+        - {x: -13.5, y: -23}
+        - {x: 13.5, y: -23}
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e556018866bdef0800000000000000
+      internalID: -82359433599558091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f6c1e67e900a74aa3b08cfcab4e8dd
+      internalID: 959195744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240b32383244f5d4bad34dec44c353b8
+      internalID: 822604274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 168
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a2e888d75f00441897826b5d28ea1b
+      internalID: 408945911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bb0ebf08c5953479e903bdeeafa2e2
+      internalID: 1415701506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14da9e5aaf4e7f54a9a21211c82c72df
+      internalID: -2090293615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_9
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69be63daebd46d948bc5bad2a80eb059
+      internalID: 493885618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 156
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc2a73dc95dcf644a341e1edd7e4729
+      internalID: -1229648469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057221990821c4e4fb8d83d20cf682fa
+      internalID: -1021442717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8b2af6dd08c34ca601bd1f9464f09
+      internalID: -1251105277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d4749f127ce404c9c75d0fec72ecd8
+      internalID: -219787014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d5bcd47ead98244bcb46f37adec635
+      internalID: -1681223373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad03043df1795748809cb2b6010ebe6
+      internalID: 12209968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e704ad40d003e43bc654d3a07348a1
+      internalID: 1222703852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 132
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351253656b56fc447a3e60e2b9457474
+      internalID: -1652041799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5989a1f5378f0244882107da52d87d91
+      internalID: 1041661423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_19
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49826343af96533489d270faa52bc059
+      internalID: 818063804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_20
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2260de63f9eb44180abddd4391076f
+      internalID: 1755267080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582fdb32ed62b994c8ce106858fbece7
+      internalID: 2116083606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_22
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a41fc72d063b6408dac86f549d6bd4
+      internalID: -1128085524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60fdca52e640c2c4fadf0d358b72a6e3
+      internalID: -751371013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316b4796beb1bd64a920b4bbffa4a68a
+      internalID: -1611692287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_25
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305913d2e2119f64b967ba8f47f9be8e
+      internalID: -1659352990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e1e08bd42483843accdb96a1012ab8
+      internalID: -1903726117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f900de09e6b4f794bbccec697b4ee6e7
+      internalID: 2036499405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_28
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8795eeccd530f184ca0a36a3cdd5bf46
+      internalID: 105097877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2003a05623294cbb6b93b24dc3b2a
+      internalID: -1750221169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e26393524d1ea245870636e7e6937ac
+      internalID: 452517885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289c62f20c7265d4cad9b94d189de4d7
+      internalID: -393260889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_32
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6871d1a98c6fbe2409f2b621e76907c7
+      internalID: -496219080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 72
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651df58a76d97cf4ba8297b7faaeed82
+      internalID: -1852281639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032422a2bb5b9e5468a4d3ab9a8a2dce
+      internalID: 590512796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca13ad0e6285b74aa002e1acb960cc9
+      internalID: -1020159581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa3a7a59fa0f8841b23172500c47b00
+      internalID: 1121186921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b299409d2414eeb46986eae1bc1393e7
+      internalID: 710734040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71ae5668569ea644bd9f53fe65f0725
+      internalID: -1900404304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_39
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1fe0644c1008c42872f3d3161af5d8
+      internalID: -401733724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_40
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d24d0a0b463854aa31c2d87b5f4462
+      internalID: -1858729848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cb1a88f22fbe64886a8620139a74f1
+      internalID: 105454441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_42
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f258495b03f7d924a9400d4a2535410f
+      internalID: 970787355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19c78530c84e7a4cb7aeb3ed40d47e1
+      internalID: 1576132941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9428ee21191403d4cab2f4a96f3d351e
+      internalID: 1461337198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7971b7a9f6820740a62a63d6c7fac57
+      internalID: 1195213797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_46
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe57f4bb33128c47a43cfc49f4d70d7
+      internalID: 1556724337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 24
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8643888bb00c72648bbf7a118a53b727
+      internalID: 2082701307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_48
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172da69e96d54f84295051798f137177
+      internalID: 805753638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ca98148f21964ebd1fd9663b37975
+      internalID: 1403030434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_50
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 12
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde6e6ff3fd85dc4880e046c82050d2e
+      internalID: -1960544790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef0547c4be141741a8c583dc24770bc
+      internalID: -330169386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_52
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578b0ff9f9c1d5e46bfd16f4f86aa4d8
+      internalID: -2118585425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sRedCar_53
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: 6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: 6}
+        - {x: -6, y: -6}
+        - {x: 6, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154bf1a5bbd53bd40814f90f9f8b4d9d
+      internalID: -1661895313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 42750f80e00d24e42a36da189a049628
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sRedCar_0: 1835197692558512801
+      sRedCar_1: 6598628455565924248
+      sRedCar_10: -1229648469
+      sRedCar_11: -1021442717
+      sRedCar_12: -1251105277
+      sRedCar_13: -219787014
+      sRedCar_14: -1681223373
+      sRedCar_15: 12209968
+      sRedCar_16: 1222703852
+      sRedCar_17: -1652041799
+      sRedCar_18: 1041661423
+      sRedCar_19: 818063804
+      sRedCar_2: 2828828263926899059
+      sRedCar_20: 1755267080
+      sRedCar_21: 2116083606
+      sRedCar_22: -1128085524
+      sRedCar_23: -751371013
+      sRedCar_24: -1611692287
+      sRedCar_25: -1659352990
+      sRedCar_26: -1903726117
+      sRedCar_27: 2036499405
+      sRedCar_28: 105097877
+      sRedCar_29: -1750221169
+      sRedCar_3: -82359433599558091
+      sRedCar_30: 452517885
+      sRedCar_31: -393260889
+      sRedCar_32: -496219080
+      sRedCar_33: -1852281639
+      sRedCar_34: 590512796
+      sRedCar_35: -1020159581
+      sRedCar_36: 1121186921
+      sRedCar_37: 710734040
+      sRedCar_38: -1900404304
+      sRedCar_39: -401733724
+      sRedCar_4: 959195744
+      sRedCar_40: -1858729848
+      sRedCar_41: 105454441
+      sRedCar_42: 970787355
+      sRedCar_43: 1576132941
+      sRedCar_44: 1461337198
+      sRedCar_45: 1195213797
+      sRedCar_46: 1556724337
+      sRedCar_47: 2082701307
+      sRedCar_48: 805753638
+      sRedCar_49: 1403030434
+      sRedCar_5: 822604274
+      sRedCar_50: -1960544790
+      sRedCar_51: -330169386
+      sRedCar_52: -2118585425
+      sRedCar_53: -1661895313
+      sRedCar_6: 408945911
+      sRedCar_7: 1415701506
+      sRedCar_8: -2090293615
+      sRedCar_9: 493885618
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

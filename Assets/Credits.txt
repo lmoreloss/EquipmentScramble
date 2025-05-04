@@ -1,0 +1,8 @@
+(12x12) City Tiles - Top Down by FisherG (https://opengameart.org/users/fisherg)
+Too Fast! by Ivan Voirol (https://opengameart.org/users/ivan-voirol)
+2D City tileset by Damian Gasinski aka Gassasin (https://opengameart.org/users/gassasin)
+unity 2d camera follow by unity3diy (https://gist.github.com/unity3diy/5aa0b098cb06b3ccbe47)
+Zipper by AntumDeluge (https://opengameart.org/users/antumdeluge)
+Step sound (walking) by IgnasD (https://opengameart.org/users/ignasd)
+Good Mood Theme (8-bit) by wyver9 (https://x.com/wyver9) (https://opengameart.org/users/wyver9) (https://wyver9.bandcamp.com/)
+How to open a URL or link from a text box with Unity TextMesh Pro by Christina Creates Games (https://www.youtube.com/@ChristinaCreatesGames/)
