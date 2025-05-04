@@ -23,17 +23,16 @@ public class CreditsScript : MonoBehaviour
 
     void Update()
     {
-        if (Input.anyKeyDown  && isPlayerInside == true)
-        {
-            if (Input.GetKeyDown(KeyCode.E))
+
+            if (Input.GetKeyDown(KeyCode.E) && isPlayerInside)
             {
                 credits.SetActive(true);
             }
-            else
+            else if (Input.GetAxis("Horizontal") != 0f || Input.GetAxis("Vertical") != 0f)
             {
                 credits.SetActive(false);
             }
-        }
+        
 
     }
 
